@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Hello Kevin (Landscape)</string>
+    <color name="color_texto">#FFFFFF</color>
+    <color name="color_fondo">#B71C1C</color>
+</resources>

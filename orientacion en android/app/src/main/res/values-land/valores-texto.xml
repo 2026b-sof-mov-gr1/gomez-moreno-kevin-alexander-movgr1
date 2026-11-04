@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Hola Kevin (Horizontal)</string>
+    <color name="color_texto">#FFFF00</color>
+    <color name="color_fondo">#0D47A1</color>
+</resources>

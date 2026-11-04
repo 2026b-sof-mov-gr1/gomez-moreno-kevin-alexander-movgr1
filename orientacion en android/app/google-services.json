@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872355569383",
+    "project_id": "kagm2026movgr1",
+    "storage_bucket": "kagm2026movgr1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872355569383:android:45acebfd77fcb1f84bcc42",
+        "android_client_info": {
+          "package_name": "com.example.kagm2026bmovgr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv58VL83evWpwWTByHSxTkKA2U4SyIbII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
